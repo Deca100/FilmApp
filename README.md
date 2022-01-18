@@ -1,9 +1,10 @@
-# FilmAppLes membres du groupe
+# FilmApp
+Les membres du groupe
 			>>> GOMPOU Meaguy Decastel
 			>>> HIEN Holo
 			>>> KOFFI Mathieu Junior
 
-Description: Notre Application nommée FilmReactNative a été dévéloppé en Réact-Native.
+Description: Notre Application nommée FilmApp a été dévéloppé en Réact-Native.
 Elle joue une partie du role de Youtube car elle permet le streamming et l'ajout des
 films à ses favoris. Elle utilise une base de donnée fait avec expo-sqlite. 
 
@@ -12,7 +13,6 @@ Comment utiliser notre Application ??
 >> Au lancement de notre application  nous aurons plusieures pages
 
 >> Pour acceder aux vidéos il faut defiler jusqu'à la dernière pages enfin cliquer sur commencer pour voir des films à la page <Home>.
-  
 **********************************************************************************************************************************************************************
 >> Sur cette page nous avons les video populaires , les video recentes et une autre option pour voir d'autre video en cliquant sur voir tout
 *********************************************************************************************************************************************************************
@@ -26,4 +26,4 @@ Comment utiliser notre Application ??
 **********************************************************************************************************************************************************
 >> Pour le paramétrage vous pouvez modifier le mode d'éclairage (Sombre ou Jour)
 
-  Merci
+Merci
